@@ -66,7 +66,6 @@ you need to be on feature branch)
 15. Pull changes to develop (and master if needed)
 16. Checkout to your feature branch and **Pull** from develop.
 
-## Bonus - if it's time, cherry pick and/or rebase
 
 ## Resources
 How to become advanced in git: read https://www.atlassian.com/git/tutorials/
