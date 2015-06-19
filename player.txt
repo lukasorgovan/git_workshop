@@ -1,2 +1,2 @@
 weapon: [knife, blaster]
-name: slavkovsky
+name: orgovan
